@@ -13,6 +13,9 @@ Below is a list of our main product series. Click on any link to go directly to 
 * 📂 [uSPr-series](https://github.com/XELA-Robotics/Drawing/tree/main/uSkin%20-%20Protect)
   * Contains models for our protect-series.
 
+* 📂 [uSCu-series](https://github.com/XELA-Robotics/Drawing/tree/main/uSkin%20-%20Curved)
+  * Contains models for our curved-series.
+
 * 📂 [uSMu-series](https://github.com/XELA-Robotics/Drawing/tree/main/uSkin%20-%20Multibend)
   * Contains models for our multibend-series.
 
